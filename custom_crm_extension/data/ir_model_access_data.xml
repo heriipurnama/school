@@ -1,0 +1,21 @@
+<odoo>
+    <record id="model_access_crm_task" model="ir.model.access">
+        <field name="name">crm.task.access</field>
+        <field name="model_id" ref="model_crm_task"/>
+        <field name="group_id" ref="base.group_user"/>
+        <field name="perm_read" eval="1"/>
+        <field name="perm_write" eval="1"/>
+        <field name="perm_create" eval="1"/>
+        <field name="perm_unlink" eval="1"/>
+    </record>
+
+    <record id="model_access_product_segment" model="ir.model.access">
+        <field name="name">product.segment.access</field>
+        <field name="model_id" ref="model_product_segment"/>
+        <field name="group_id" ref="base.group_user"/>
+        <field name="perm_read" eval="1"/>
+        <field name="perm_write" eval="1"/>
+        <field name="perm_create" eval="1"/>
+        <field name="perm_unlink" eval="1"/>
+    </record>
+</odoo>

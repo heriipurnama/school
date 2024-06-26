@@ -1,0 +1,10 @@
+<!-- File: views/sekolah_menu.xml -->
+<odoo>
+    <menuitem id="menu_sekolah_root" name="Sekolah" sequence="10"/>
+
+    <menuitem id="menu_siswa" name="Siswa" parent="menu_sekolah_root" action="action_siswa"/>
+    <menuitem id="menu_kelas" name="Kelas" parent="menu_sekolah_root" action="action_kelas"/>
+    <menuitem id="menu_mata_pelajaran" name="Mata Pelajaran" parent="menu_sekolah_root" action="action_mata_pelajaran"/>
+    <menuitem id="menu_jadwal" name="Jadwal" parent="menu_sekolah_root" action="action_jadwal"/>
+    <menuitem id="menu_guru" name="Guru" parent="menu_sekolah_root" action="action_guru"/>
+</odoo>
