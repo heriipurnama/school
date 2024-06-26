@@ -41,7 +41,7 @@ Custom CRM Extension integrates with Odoo 13 Community Edition, extending the CR
 - **Version**: 1.0.0
 - **Summary**: Inherit CRM with additional fields and functionalities
 - **Author**: heriipurnama
-- **Website**: [http://heriipurnama.rumahinformatika.com/](http://heriipurnama.rumahinformatika.com/)
+- **Website**: [http://heriipurnama.rumahinformatika.com/]
 - **Dependencies**: ['base', 'crm']
 - **Installable**: Yes
 - **Application**: No
