@@ -1,4 +1,3 @@
-```markdown
 # Addons Sekolah
 
 ## Overview
@@ -57,4 +56,3 @@ Custom CRM Extension integrates with Odoo 13 Community Edition, extending the CR
 - Customize CRM leads, tasks, and segmentation according to your business requirements.
 
 For more information and detailed documentation, visit the [Custom CRM Extension Documentation](http://heriipurnama.rumahinformatika.com/).
-```
