@@ -11,7 +11,7 @@ Addons Sekolah integrates seamlessly with Odoo 13 Community Edition, offering fu
 - **Version**: 1.0
 - **Category**: Education
 - **Author**: heriipurnama
-- **Website**: [http://heriipurnama.rumahinformatika.com/](http://heriipurnama.rumahinformatika.com/)
+- **Website**: [http://heriipurnama.rumahinformatika.com/]
 - **Dependencies**: ['base']
 - **Installable**: Yes
 - **Application**: Yes
